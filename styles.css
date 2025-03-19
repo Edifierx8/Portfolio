@@ -94,7 +94,7 @@ img {
     display: flex;
     z-index: 100;
     flex-direction: column;
-    gap: .3rem;
+    gap: .5rem;
     cursor: pointer;
 }
 
