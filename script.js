@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     hiddenElements.forEach((el) => observer.observe(el));
 
 
-    const toggle = document.querySelector(".toggle")
+    const toggle = document.querySelector(".hamburger")
     const line1 = document.getElementById('line-1')
     const line2 = document.getElementById('line-2')
     const mobileNav = document.querySelector(".mobile-nav")
