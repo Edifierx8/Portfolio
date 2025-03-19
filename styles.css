@@ -89,7 +89,7 @@ img {
     border-bottom: 3px solid grey;
 }
 
-.toggle {
+.hamburger {
     padding: .3em .8em;
     display: flex;
     z-index: 100;
