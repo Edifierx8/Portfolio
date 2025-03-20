@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             mobileNav.style.top = "0%";
             line1.style.rotate = '45deg'
             line2.style.rotate = '-45deg'
-            line2.style.bottom = '0.45rem'
+            line2.style.bottom = '0.7rem'
         } else {
             mobileNav.style.top = "-100%"
             line1.style.rotate = '0deg'
